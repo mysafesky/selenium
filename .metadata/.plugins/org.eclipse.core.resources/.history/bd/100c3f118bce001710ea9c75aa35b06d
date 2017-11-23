@@ -1,0 +1,10 @@
+package com.missionsky.autotest;
+
+public class AutoTest {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}
